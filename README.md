@@ -23,8 +23,4 @@ The following steps are required to be done:
 
 
 # Contact
-<<<<<<< HEAD
 Please feel free to contact ssheikhalishahi@fbk.eu for any questions
-=======
-Please feel free to contact ssheikhalishahi@fbk.eu for any questions
->>>>>>> 9601a96 (finalized)
